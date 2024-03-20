@@ -12,4 +12,6 @@ To enhance the user experience, AJAX will be integrated into specific functional
 Similarly, for homeowners, AJAX will be implemented to handle actions such as accepting or declining rental applications and deleting listed properties. Clicking 'Accept' or 'Decline' buttons in the 'Rental Applications' table will initiate an AJAX call to a PHP page, updating the corresponding application status in the database based on the clicked button. The response from the PHP page will determine whether the status in the table should be updated.
 
 the ER scheme is as follows:
+
+
 <img width="508" alt="Screenshot 2024-03-21 010231" src="https://github.com/Futoon2002/online_home_rental_system/assets/101240944/dcbc7938-53a5-4c05-a9fb-9acf9c5ee5c6">
