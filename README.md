@@ -15,3 +15,15 @@ the ER scheme is as follows:
 
 
 <img width="508" alt="Screenshot 2024-03-21 010231" src="https://github.com/Futoon2002/online_home_rental_system/assets/101240944/dcbc7938-53a5-4c05-a9fb-9acf9c5ee5c6">
+
+
+Home page:
+
+
+<img width="899" alt="Screenshot 2024-03-21 012500" src="https://github.com/Futoon2002/online_home_rental_system/assets/101240944/b490852b-b181-465e-9713-65baa584282d">
+
+
+<img width="869" alt="Screenshot 2024-03-21 012545" src="https://github.com/Futoon2002/online_home_rental_system/assets/101240944/f513d4ec-1bb7-4b28-a8c1-750e6286a7d7">
+
+
+<img width="936" alt="Screenshot 2024-03-21 012601" src="https://github.com/Futoon2002/online_home_rental_system/assets/101240944/0278be59-0aac-41a8-bc05-648215fc4fd8">
